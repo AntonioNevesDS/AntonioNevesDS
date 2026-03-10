@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá, eu sou o [Antonio Neve]! 👋
 
-<!--
-**AntonioNevesDS/AntonioNevesDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mim
+- 👨‍💻 Atualmente trabalhando como **[Sua Profissão/Estudante]**
+- 🎓 Estudando **[Curso/Tecnologia]** na **[Instituição]**
+- 💡 Apaixonado por transformar café em código funcional.
+- 📫 Como me encontrar: **[link-do-linkedin]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app[SEU-USUARIO]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app[SEU-USUARIO]&layout=compact&langs_count=7&theme=dracula"/>
+</p>
+
+---
+
+### 🤝 Conecte-se comigo
+<p align="left">
+  <a href="mailto:[seu-email@gmail.com]">
+    <img src="https://img.shields.io" />
+  </a>
+  <a href="[link-do-seu-linkedin]">
+    <img src="https://img.shields.io" />
+  </a>
+</p>
